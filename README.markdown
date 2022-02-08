@@ -1,4 +1,4 @@
-# Calculadora de média - Aula 1 Desafio 1
+# Aula 1 / Desafio 1 - Calculadora de média
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/jhonatancassante/pen/oNwwOKV](https://codepen.io/jhonatancassante/pen/oNwwOKV).
 
